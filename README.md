@@ -1,7 +1,6 @@
 - Hi, I’m @AmateurComet424
 - I’m interested in software development, Star Wars, Minecraft and Sea of Thieves.
 - I’m currently learning Python3 and Ruby.
-- I’m looking to collaborate on (n/a).
 - How to reach me (n/a).
 - I don't like the use of emojis. They make things messy.
 
